@@ -101,6 +101,7 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 ### Web Frameworks
 
 1. Django
+2. Flask
 
 ### Messaging
 1. RabbitMQ
