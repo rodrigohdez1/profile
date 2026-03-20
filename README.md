@@ -4,17 +4,15 @@
 
 ## Profile
 
-* 7 years working Site Reliability Engineer roles at Kindred Group plc.
-* 7 years as Monitoring Engineer as a contractor for Electronic Arts.
+* Site Reliability and Observability Engineer with 15+ years of experience designing and building Monitoring Systems at scale.
 * 20+ years of experience working with Linux / UNIX systems.
 * Experience developing software applications for various platforms.
-* Monitoring and Observability architecture design.
-* Programming and design skills.
 * Backend development.
-* Project management.
-* Agile software development methodology.
+* Agile software development methodology enthusiast.
 * Strong collaborative skills.
 * Strong problem solving skills.
+* Product management.
+* Proficiency in Python, Go, Perl, C# and Shell scripting.
 
 ## Engineering Experience
 
@@ -83,9 +81,7 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 | Prometheus |
 | Nagios |
 | Opsview |
-| Grafana |
-| Grafana Loki |
-| Grafana Tempo |
+| Grafana LGTM Stack (Loki, Grafana, Tempo, Mimir) |
 | Alerta |
 | Thanos |
 | Vector |
@@ -95,6 +91,7 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 | Splunk |
 | Graphite |
 | InfluxDB |
+| Elastic stack |
 
 | Web Frameworks |
 |-----------|
