@@ -68,7 +68,6 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 
 ## Technical Skills
 
-
 | Programming Languages |
 |---|
 | Python |
@@ -78,54 +77,56 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 | C# |
 | Bash |
 
-### Observability applications
+| Observability |
+|------|
+| Icinga |
+| Prometheus |
+| Nagios |
+| Opsview |
+| Grafana |
+| Grafana Loki |
+| Grafana Tempo |
+| Alerta |
+| Thanos |
+| Vector |
+| FluentD |
+| OTel |
+| Instana |
+| Splunk |
+| Graphite |
+| InfluxDB |
 
-1. Icinga
-2. Prometheus
-3. Nagios
-4. Opsview
-5. Grafana
-6. Grafana Loki
-7. Grafana Tempo
-8. Alerta
-9. Thanos
-10. Vector
-11. FluentD
-12. OTel
-13. Instana
-14. Splunk
-15. Graphite
-16. InfluxDB
+| Web Frameworks |
+|-----------|
+| Django |
+| Flask |
 
-### Web Frameworks
+| Messaging |
+|------|
+| RabbitMQ |
+| Kafka |
+| Solace |
 
-1. Django
-2. Flask
+| CD / CI |
+|------|
+| Jenkins |
+| Gitlab |
 
-### Messaging
-1. RabbitMQ
-2. Kafka
-3. Solace
+| Infrastructure as Code |
+|------|
+| Terraform |
+| Packer |
+| Vault |
+| Vagrant |
+| Ansible |
 
-### CD / CI
+| Orchestration |
+|------|
+| Docker |
+| Kubernetes |
+| Nomad |
 
-1. Jenkins
-2. Gitlab
-
-### Infrastructure as Code
-
-1. Terraform
-2. Packer
-3. Vault
-4. Vagrant
-5. Ansible
-
-### Orchestration
-
-1. Docker
-2. Kubernetes
-3. Nomad
-
-### Cloud
-1. OpenStack
-2. AWS
+| Cloud |
+|----------|
+| OpenStack |
+| AWS |
