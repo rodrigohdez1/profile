@@ -64,7 +64,8 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 ## Languages
 
 🇺🇸 **English**: Fluent <br>
-🇲🇽 **Spanish**: Native
+🇲🇽 **Spanish**: Native <br>
+🇸🇪 **Swedish**: Beginner
 
 ## Technical Skills
 
