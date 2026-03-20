@@ -4,7 +4,7 @@
 
 ## Profile
 
-* Site Reliability and Observability Engineer with 15+ years of experience designing and building Monitoring Systems at scale.
+* Site Reliability and Observability Engineer with 15+ years of experience designing, building, implementing and testing Monitoring Systems at scale.
 * 20+ years of experience working with Linux / UNIX systems.
 * Experience developing software applications for various platforms.
 * Backend development.
