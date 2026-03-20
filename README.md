@@ -1,6 +1,6 @@
-_Site Reliability Engineer based in Stockholm, Sweden_ 
+# Site Reliability Engineer
 
-[Email](mailto:rodrigo,hdez@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rodrigo-hernandez-6b014688/) / [GitHub](https://github.com/rodrigohdez1)
+[Email](mailto:rodrigo,hdez@gmail.com) / [LinkedIn](https://www.linkedin.com/in/rodrigo-hernandez-6b014688/) / [GitHub](https://github.com/rodrigohdez1) / **Location**: _Stockholm, Sweden_
 
 ## Profile
 
