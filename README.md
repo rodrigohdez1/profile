@@ -68,14 +68,15 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 
 ## Technical Skills
 
-### Programming languages
 
-1. Python
-2. Go
-3. Perl
-4. C++
-5. C#
-6. Bash
+| Programming Languages |
+|---|
+| Python |
+| Go |
+| Perl |
+| C++ |
+| C# |
+| Bash |
 
 ### Observability applications
 
