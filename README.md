@@ -89,9 +89,11 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 | OTel |
 | Instana |
 | Splunk |
+| InfluxDB |
 | Graphite |
 | InfluxDB |
 | Elastic stack |
+| Victoria Metrics / Victoria Logs |
 
 | Web Frameworks |
 |-----------|
