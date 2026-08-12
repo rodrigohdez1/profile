@@ -1,4 +1,4 @@
-# Site Reliability Engineer
+# Site Reliability Engineering / Platform Engineering / Observability
 
 [Email](mailto:rodrigo.hdez < at > gmail.com) / [LinkedIn](https://www.linkedin.com/in/rodrigo-hernandez-6b014688/) / [GitHub](https://github.com/rodrigohdez1) / **Location**: _Stockholm, Sweden_ 📍
 
@@ -13,6 +13,7 @@
 * Strong problem solving skills.
 * Product management.
 * Proficiency in Python, Go, Perl, C# and Shell scripting.
+* Working experience with AI tools for coding and Agentic Workflow design and implementation.
 
 ## Engineering Experience
 
@@ -129,3 +130,10 @@ Instituto Tecnológico de Tijuana - Tijuana, Baja California, México _(2002 - 2
 |----------|
 | OpenStack |
 | AWS |
+
+| AI |
+|----------|
+| GitHub Copilot |
+| Cursor |
+| AWS Bedrock |
+| n8n |
